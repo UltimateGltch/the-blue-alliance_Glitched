@@ -658,7 +658,6 @@ const LAYOUT_12 = [
   },
 ];
 
-
 export const LAYOUT_STYLES = [
   LAYOUT_0,
   LAYOUT_1,
